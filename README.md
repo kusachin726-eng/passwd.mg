@@ -1,0 +1,2 @@
+# passwd.mg
+passwd
